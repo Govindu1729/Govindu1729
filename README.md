@@ -136,16 +136,16 @@
       </div>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td width="50%">
       <div align="center">
-        <h3>🌐 IITGN-Website-Redesign</h3>
-        <p><em>Website Redesign Concept for IITGN</em></p>
-        <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="CSS" />
+        <h3>📈 IndicBench</h3>
+        <p><em>Benchmarking Tool for Indian Context</em></p>
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
         <br/><br/>
-        <p>A modern redesign concept for the IIT Gandhinagar website with improved UI/UX.</p>
+        <p>A benchmarking framework designed for evaluating models in the Indian context.</p>
         <br/>
-        <a href="https://github.com/Govindu1729/IITGN-Website-Redesign">
+        <a href="https://github.com/Govindu1729/indicbench">
           <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
         </a>
       </div>
@@ -164,16 +164,16 @@
       </div>
     </td>
   </tr>
-  <tr>
+ <tr>
     <td width="50%">
       <div align="center">
-        <h3>📈 IndicBench</h3>
-        <p><em>Benchmarking Tool for Indian Context</em></p>
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
+        <h3>🌐 IITGN-Website-Redesign</h3>
+        <p><em>Website Redesign Concept for IITGN</em></p>
+        <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="CSS" />
         <br/><br/>
-        <p>A benchmarking framework designed for evaluating models in the Indian context.</p>
+        <p>A modern redesign concept for the IIT Gandhinagar website with improved UI/UX.</p>
         <br/>
-        <a href="https://github.com/Govindu1729/indicbench">
+        <a href="https://github.com/Govindu1729/IITGN-Website-Redesign">
           <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
         </a>
       </div>
@@ -212,24 +212,13 @@
   <a href="https://github.com/Govindu1729" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="govindusrimaan123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/srimaangovindu/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BROmscV9CSCWOwr%2FuYRK2wg%3D%3D)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-</div>
 
-<br/>
-
-<!-- Quote Section -->
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 <br/>
@@ -245,6 +234,3 @@
   <img src="https://profile-counter.glitch.me/Govindu1729/count.svg?" alt="Visitor Count" />
 </div>
 
-<!--
-Note: Replace placeholder links (email, LinkedIn, Twitter) with your actual social media handles.
--->
