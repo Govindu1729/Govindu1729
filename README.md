@@ -4,7 +4,7 @@
 </div>
 
 <!-- Typing Effect -->
-<h3 align="center" style="margin-top: 20px;">
+<h3 align="center" style="margin-top: 22px;">
   <a href="https://github.com/Govindu1729">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=50&lines=Developer+%F0%9F%92%BB;IIT+Gandhinagar+%F0%9F%8E%93;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -27,17 +27,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpsOTFyenAxYzRxbnRzamsybndscHI3YjYzazJkMmUzbWQ1cjd4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paoX8smVvbggCXLu80/giphy.gif" width="100%" alt="Coding GIF" />
       </td>
-      <td>
-        <ul style="list-style: none; font-size: 16px; line-height: 2;">
-          <li>🎓 Student at <strong>IIT Gandhinagar</strong></li>
-          <li>📍 Based in <strong>India</strong></li>
-          <li>💼 Passionate <strong>Developer</strong></li>
-          <li>🚀 Building innovative solutions</li>
-          <li>📚 Learning & Growing every day</li>
-          <li>💡 Open to collaborations</li>
-        </ul>
+      <td align="left">
+        <div style="font-size: 20px; line-height: 2;">
+          🎓 Student at <strong>IIT Gandhinagar</strong><br>
+          📍 Based in <strong>India</strong><br>
+          💼 Passionate <strong>Developer</strong><br>
+          🚀 Building innovative solutions<br>
+          📚 Learning & Growing every day<br>
+          💡 Open to collaborations
+        </div>
       </td>
     </tr>
   </table>
@@ -54,23 +54,35 @@
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge" alt="Rust" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
   </p>
-  
+
   <h3>Frameworks & Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
     <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Firefox_WebExtensions-red?logo=firefox-browser&logoColor=white&style=for-the-badge" alt="WebExtensions" />
   </p>
-  
+
+  <h3>AI & ML</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Model_Context_Protocol-00A8E1?logo=openai&logoColor=white&style=for-the-badge" alt="MCP" />
+    <img src="https://img.shields.io/badge/NLP-spaCy?logo=python&logoColor=white&style=for-the-badge" alt="NLP" />
+    <img src="https://img.shields.io/badge/RAG-Agentic?color=green&style=for-the-badge" alt="RAG" />
+    <img src="https://img.shields.io/badge/BERT-Transformers?color=orange&style=for-the-badge" alt="BERT" />
+  </p>
+
   <h3>Tools & Platforms</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
     <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
     <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSCode" />
+    <img src="https://img.shields.io/badge/Cargo-Rust?logo=rust&logoColor=white&style=for-the-badge" alt="Cargo" />
+    <img src="https://img.shields.io/badge/WebDriver-BiDi?color=blue&style=for-the-badge" alt="WebDriver" />
   </p>
 </div>
 
@@ -90,14 +102,14 @@
       </td>
     </tr>
   </table>
-  
+
   <br/>
-  
+
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Govindu1729&theme=tokyonight&hide_border=true" alt="Commit Streak" />
-  
+
   <br/><br/>
-  
+
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govindu1729&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
@@ -111,6 +123,21 @@
   <tr>
     <td width="50%">
       <div align="center">
+        <h3>🌐 Zen Agentic Extension</h3>
+        <p><em>AI-Powered Browser Extension with MCP & Native Messaging</em></p>
+        <img src="https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="Python" />
+        <br/><br/>
+        <p>Agentic AI WebExtension for Zen Browser integrating Model Context Protocol (MCP), Native Messaging, ScreenCaptureKit, WebDriver BiDi, and local ML backend for NLP & Agentic RAG.</p>
+        <br/>
+        <a href="https://github.com/Govindu1729/zen-agentic-extension">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
         <h3>🏫 IITGN-Walk</h3>
         <p><em>Campus Navigation App for IIT Gandhinagar</em></p>
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -122,6 +149,8 @@
         </a>
       </div>
     </td>
+  </tr>
+    <tr>
     <td width="50%">
       <div align="center">
         <h3>📊 iitgn-academic-tracker</h3>
@@ -135,8 +164,6 @@
         </a>
       </div>
     </td>
-  </tr>
-    <tr>
     <td width="50%">
       <div align="center">
         <h3>📈 IndicBench</h3>
@@ -150,6 +177,8 @@
         </a>
       </div>
     </td>
+  </tr>
+ <tr>
     <td width="50%">
       <div align="center">
         <h3>🤖 SmartSpend</h3>
@@ -163,31 +192,16 @@
         </a>
       </div>
     </td>
-  </tr>
- <tr>
     <td width="50%">
       <div align="center">
-        <h3>🌐 IITGN-Website-Redesign</h3>
-        <p><em>Website Redesign Concept for IITGN</em></p>
-        <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="CSS" />
+        <h3>🔧 More Projects</h3>
+        <p><em>Check out my full portfolio</em></p>
+        <img src="https://img.shields.io/badge/GitHub-Explore-black?logo=github&logoColor=white" alt="GitHub" />
         <br/><br/>
-        <p>A modern redesign concept for the IIT Gandhinagar website with improved UI/UX.</p>
+        <p>Discover more projects, experiments, and contributions on my GitHub profile.</p>
         <br/>
-        <a href="https://github.com/Govindu1729/IITGN-Website-Redesign">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🧠 AI Mini Project</h3>
-        <p><em>Software Tools & Techniques for AI</em></p>
-        <img src="https://img.shields.io/badge/Jupyter-%23F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
-        <br/><br/>
-        <p>Exploring AI algorithms and techniques through practical implementations.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/Software-Tools-Techniques-for-AI---mini-project">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
+        <a href="https://github.com/Govindu1729?tab=repositories">
+          <img src="https://img.shields.io/badge/View-All-blue?style=for-the-badge" alt="View All" />
         </a>
       </div>
     </td>
@@ -226,11 +240,11 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=footprint&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
-  
+
   ### ⭐ Thanks for visiting my profile!
-  
+
   <p>Made with ❤️ by Govindu Srimaan</p>
-  
+
   <img src="https://profile-counter.glitch.me/Govindu1729/count.svg?" alt="Visitor Count" />
 </div>
 
