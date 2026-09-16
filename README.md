@@ -59,6 +59,26 @@
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
   </p>
 
+  <h3>AI Infrastructure</h3>
+  <p>
+    <img src="https://img.shields.io/badge/vLLM-0.27-FF6F00?logo=vllm&logoColor=white&style=for-the-badge" alt="vLLM" />
+    <img src="https://img.shields.io/badge/PyTorch-2.13-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/CUDA-12.9-76B900?logo=nvidia&logoColor=white&style=for-the-badge" alt="CUDA" />
+    <img src="https://img.shields.io/badge/Qwen3.8--27B--FP8-5A45FF?style=for-the-badge" alt="Qwen" />
+    <img src="https://img.shields.io/badge/Tensor_Parallel-TP%3D2-00B4D8?style=for-the-badge" alt="TP=2" />
+    <img src="https://img.shields.io/badge/L40S-2%C3%97-76B900?style=for-the-badge" alt="L40S GPU" />
+  </p>
+
+  <h3>Agentic Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Model_Context_Protocol-00A8E1?logo=openai&logoColor=white&style=for-the-badge" alt="MCP" />
+    <img src="https://img.shields.io/badge/SSE-Streaming-4B0082?style=for-the-badge" alt="SSE" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+    <img src="https://img.shields.io/badge/Vite_8-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" />
+  </p>
+
   <h3>Frameworks & Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React" />
@@ -69,10 +89,11 @@
 
   <h3>AI & ML</h3>
   <p>
-    <img src="https://img.shields.io/badge/Model_Context_Protocol-00A8E1?logo=openai&logoColor=white&style=for-the-badge" alt="MCP" />
     <img src="https://img.shields.io/badge/NLP-spaCy?logo=python&logoColor=white&style=for-the-badge" alt="NLP" />
     <img src="https://img.shields.io/badge/RAG-Agentic?color=green&style=for-the-badge" alt="RAG" />
     <img src="https://img.shields.io/badge/BERT-Transformers?color=orange&style=for-the-badge" alt="BERT" />
+    <img src="https://img.shields.io/badge/Differential_Privacy-DP--SGD-blueviolet?style=for-the-badge" alt="DP" />
+    <img src="https://img.shields.io/badge/Privacy_Audit-MIA-red?style=for-the-badge" alt="MIA" />
   </p>
 
   <h3>Tools & Platforms</h3>
@@ -85,8 +106,6 @@
     <img src="https://img.shields.io/badge/WebDriver-BiDi?color=blue&style=for-the-badge" alt="WebDriver" />
   </p>
 </div>
-
-<br/>
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Statistics
