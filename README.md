@@ -94,6 +94,8 @@
     <img src="https://img.shields.io/badge/BERT-Transformers?color=orange&style=for-the-badge" alt="BERT" />
     <img src="https://img.shields.io/badge/Differential_Privacy-DP--SGD-blueviolet?style=for-the-badge" alt="DP" />
     <img src="https://img.shields.io/badge/Privacy_Audit-MIA-red?style=for-the-badge" alt="MIA" />
+    <img src="https://img.shields.io/badge/LLM_Serving-vLLM-FF6F00?style=for-the-badge" alt="LLM Serving" />
+    <img src="https://img.shields.io/badge/Jupyter_Notebook-F37726?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
   </p>
 
   <h3>Tools & Platforms</h3>
@@ -142,7 +144,7 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <h3>🌐 Zen Agentic Extension</h3>
+        <h3>🌐 Zen Agentic AI Extension</h3>
         <p><em>AI-Powered Browser Extension with MCP & Native Messaging</em></p>
         <img src="https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -150,11 +152,28 @@
         <br/><br/>
         <p>Agentic AI WebExtension for Zen Browser integrating Model Context Protocol (MCP), Native Messaging, ScreenCaptureKit, WebDriver BiDi, and local ML backend for NLP & Agentic RAG.</p>
         <br/>
-        <a href="https://github.com/Govindu1729/zen-agentic-extension">
+        <a href="https://github.com/Govindu1729/Zen-Agentic-AI-Extension">
           <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
         </a>
       </div>
     </td>
+    <td width="50%">
+      <div align="center">
+        <h3>🤖 Private LLM Infrastructure</h3>
+        <p><em>Self-hosted AI Assistant on Air-Gapped Server</em></p>
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/vLLM-FF6F00?logo=vllm&logoColor=white" alt="vLLM" />
+        <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="CUDA" />
+        <br/><br/>
+        <p>A self-hosted, ChatGPT-style AI assistant powered by Qwen3.8-27B-FP8, deployed locally on a dual-NVIDIA L40S server. Features tensor parallelism, streaming inference, reasoning separation, persistent chat history, and secure tool-use architecture.</p>
+        <br/>
+        <a href="https://github.com/Govindu1729/Private-LLM-Infrastructure-on-Air-Gapped-Server">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
+        </a>
+      </div>
+    </td>
+  </tr>
+    <tr>
     <td width="50%">
       <div align="center">
         <h3>🏫 IITGN-Walk</h3>
@@ -168,8 +187,6 @@
         </a>
       </div>
     </td>
-  </tr>
-    <tr>
     <td width="50%">
       <div align="center">
         <h3>📊 iitgn-academic-tracker</h3>
@@ -183,6 +200,8 @@
         </a>
       </div>
     </td>
+  </tr>
+ <tr>
     <td width="50%">
       <div align="center">
         <h3>📈 IndicBench</h3>
@@ -196,8 +215,6 @@
         </a>
       </div>
     </td>
-  </tr>
- <tr>
     <td width="50%">
       <div align="center">
         <h3>🤖 SmartSpend</h3>
@@ -211,16 +228,32 @@
         </a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <div align="center">
-        <h3>🔧 More Projects</h3>
-        <p><em>Check out my full portfolio</em></p>
-        <img src="https://img.shields.io/badge/GitHub-Explore-black?logo=github&logoColor=white" alt="GitHub" />
+        <h3>🎨 IITGN Website Redesign</h3>
+        <p><em>Website Redesign Project</em></p>
+        <img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white" alt="CSS" />
         <br/><br/>
-        <p>Discover more projects, experiments, and contributions on my GitHub profile.</p>
+        <p>Modern redesign of the IIT Gandhinagar website with improved UI/UX and responsive design.</p>
         <br/>
-        <a href="https://github.com/Govindu1729?tab=repositories">
-          <img src="https://img.shields.io/badge/View-All-blue?style=for-the-badge" alt="View All" />
+        <a href="https://github.com/Govindu1729/IITGN-Website-Redesign">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h3>🔬 Software Tools for AI - Mini Project</h3>
+        <p><em>AI Research Mini Project</em></p>
+        <img src="https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+        <br/><br/>
+        <p>Mini project exploring software tools and techniques for AI applications.</p>
+        <br/>
+        <a href="https://github.com/Govindu1729/Software-Tools-Techniques-for-AI---mini-project">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
         </a>
       </div>
     </td>
