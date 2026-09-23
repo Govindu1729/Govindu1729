@@ -127,8 +127,7 @@
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Govindu1729&theme=tokyonight&hide_border=true" alt="Commit Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=Govindu1729&theme=tokyonight&hide_border=true" alt="GitHub Commit Streak" />
   <br/><br/>
 
   <!-- Contribution Graph -->
