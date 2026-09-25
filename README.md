@@ -45,6 +45,9 @@
 
 <br/>
 
+<br/>
+
+
 <!-- Tech Stack Section -->
 ## 🛠️ Technologies & Tools
 
@@ -141,6 +144,27 @@
 
 <table>
   <tr>
+    <td width="100%" colspan="2">
+      <div align="center">
+        <h3>🏢 IITGN Digital Infra Management </h3>
+        <p><em>Unified Infrastructure Management Platform for IIT Gandhinagar</em></p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <br/><br/>
+        <p>A modular platform for managing campus infrastructure operations including event scheduling, room allocation, and maintenance tracking. Features enterprise-grade RBAC, real-time room conflict detection, recurring events with iCal RRULE, comprehensive audit logging, and a premium desktop-first UI with command palette navigation. Built with "Mind Your Own Business" philosophy where users only see events from authorized modules.</p>
+        <br/>
+        <a href="https://github.com/Janil-ship-it/campus-infra-management">
+          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
+        </a>
+        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" alt="Status" />
+        <img src="https://img.shields.io/badge/Team-3_Developers-green?style=for-the-badge" alt="Team" />
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <div align="center">
         <h3>🌐 Zen Agentic AI Extension</h3>
@@ -228,37 +252,7 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>🎨 IITGN Website Redesign</h3>
-        <p><em>Website Redesign Project</em></p>
-        <img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white" alt="CSS" />
-        <br/><br/>
-        <p>Modern redesign of the IIT Gandhinagar website with improved UI/UX and responsive design.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/IITGN-Website-Redesign">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🔬 Software Tools for AI - Mini Project</h3>
-        <p><em>AI Research Mini Project</em></p>
-        <img src="https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white" alt="Jupyter" />
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-        <br/><br/>
-        <p>Mini project exploring software tools and techniques for AI applications.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/Software-Tools-Techniques-for-AI---mini-project">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-  </tr>
 </table>
-
 <br/>
 
 <!-- Achievements & Trophies -->
