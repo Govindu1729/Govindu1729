@@ -1,8 +1,9 @@
+
 <!-- Professional Profile README for Govindu1729 -->
 <div align="center">
   <h1>Govindu Srimaan</h1>
   <p><strong>Developer • IIT Gandhinagar</strong> · Building real-world systems with TypeScript, Rust, and AI infrastructure</p>
-  
+
   <p>
     <a href="https://github.com/Govindu1729"><img src="https://img.shields.io/github/followers/Govindu1729?label=Followers&style=flat&color=58A6FF" alt="Followers" /></a>
     <a href="mailto:govindusrimaan123@gmail.com"><img src="https://img.shields.io/badge/Email-govindusrimaan123%40gmail.com-D14836?style=flat&logo=gmail" alt="Email" /></a>
@@ -26,10 +27,10 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript · JavaScript · Python · Rust · CSS/HTML  
-**AI/ML:** vLLM · PyTorch · CUDA · Transformers · spaCy · Jupyter  
-**Frameworks:** React 19 · Next.js 14 · FastAPI · Vite 8 · Prisma  
-**Tools:** Git · GitHub · VS Code · Cargo · WebDriver BiDi · SQLite  
+**Languages:** TypeScript · JavaScript · Python · Rust · CSS/HTML
+**AI/ML:** vLLM · PyTorch · CUDA · Transformers · spaCy · Jupyter
+**Frameworks:** React 19 · Next.js 14 · FastAPI · Vite 8 · Prisma
+**Tools:** Git · GitHub · VS Code · Cargo · WebDriver BiDi · SQLite
 
 ---
 
@@ -87,3 +88,79 @@
 - **Research roles** in privacy-preserving ML or LLM systems
 
 > **Note:** This profile is auto-synced with actual repo data. Last updated: 2026-10-07
+
+
++++ README.md (修改后)
+# Govindu Srimaan
+
+**Developer · Indian Institute of Technology Gandhinagar**
+
+Software engineer focused on AI infrastructure, agentic systems, and full-stack development. Currently building self-hosted LLM serving pipelines and production web platforms in TypeScript, Rust, and Python.
+
+[Email](mailto:govindusrimaan123@gmail.com) · [GitHub](https://github.com/Govindu1729) · [LinkedIn](https://www.linkedin.com/in/srimaangovindu/)
+
+---
+
+## Areas of Focus
+
+- **AI Infrastructure** — LLM serving with vLLM, PyTorch, and CUDA; tensor-parallel inference (Qwen 27B-FP8 on dual NVIDIA L40S GPUs)
+- **Agentic Systems** — Model Context Protocol (MCP), native messaging, WebDriver BiDi, local retrieval-augmented backends
+- **Full-Stack Development** — React 19, Next.js 14, TypeScript, Vite, Prisma, SQLite/MySQL, Tailwind CSS
+- **Privacy-Preserving Machine Learning** — Differential privacy (DP-SGD), membership-inference auditing
+- **Campus Platforms** — Production tools for IITGN: academic tracking, campus navigation, infrastructure management
+
+## Technical Proficiency
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | TypeScript, JavaScript, Python, Rust |
+| AI / ML | vLLM, PyTorch, CUDA, Transformers, spaCy |
+| Frameworks | React, Next.js, FastAPI, Vite, Prisma |
+| Tooling & Infra | Git, WebDriver BiDi, SQLite, MySQL, Docker-grade self-hosting |
+
+## Selected Projects
+
+### Private LLM Infrastructure on an Air-Gapped Server
+Self-hosted ChatGPT-style assistant running Qwen 3.8-27B-FP8 with tensor parallelism (TP=2), streaming inference, reasoning separation, persistent conversation history, and sandboxed tool use on dual NVIDIA L40S GPUs.
+`vLLM` `CUDA` `JavaScript` — [Repository](https://github.com/Govindu1729/Private-LLM-Infrastructure-on-Air-Gapped-Server)
+
+### Zen Agentic AI Extension
+Agentic browser extension for the Zen browser integrating MCP, native messaging, ScreenCaptureKit, WebDriver BiDi, and a local NLP/RAG backend.
+`Rust` `TypeScript` `Python` — [Repository](https://github.com/Govindu1729/Zen-Agentic-AI-Extension)
+
+### Campus Infrastructure Management
+Unified infrastructure platform for IITGN: event scheduling, room allocation, role-based access control, RRULE recurrences, audit logging, and a command-palette-driven UI.
+`Next.js 14` `TypeScript` `Prisma` `MySQL` `Tailwind` — [Repository](https://github.com/Govindu1729/campus-infra-management)
+
+### SmartSpend
+Expense tracker with spending analytics and insights.
+`TypeScript` `Next.js` — [Live Demo](https://smartspend-sandy.vercel.app) · [Repository](https://github.com/Govindu1729/smartspend)
+
+### IITGN Academic Tracker
+Course, CPI, and degree-progress tracker for IIT Gandhinagar students.
+`JavaScript` `Vercel` — [Live Demo](https://iitgn-academic-tracker-c4vs.vercel.app) · [Repository](https://github.com/Govindu1729/iitgn-academic-tracker)
+
+### IITGN Walk
+Interactive campus navigation and mapping tool.
+`TypeScript` — [Repository](https://github.com/Govindu1729/IITGN-Walk)
+
+### IndicBench
+Benchmarking framework for evaluating language models in Indian-language contexts.
+`TypeScript` — [Repository](https://github.com/Govindu1729/indicbench)
+
+## Research & Coursework
+
+- **Differential Privacy Auditing (DP-SGD / DRO)** — Membership-inference audits against DP-SGD training pipelines. `Jupyter` — [Repository](https://github.com/Govindu1729/privacy-audit-dro-dpsgd)
+- **IITGN Website Redesign** — CSS-only visual design exploration for the institute website. `CSS` — [Repository](https://github.com/Govindu1729/IITGN-Website-Redesign)
+- **Software Tools & Techniques for AI (Mini-Project)** — Course project covering core AI tooling workflows. `Jupyter` — [Repository](https://github.com/Govindu1729/Software-Tools-Techniques-for-AI---mini-project)
+
+## Notable Work
+
+- Deployed 27B-parameter language models with tensor parallelism on dual L40S GPUs in a fully air-gapped environment.
+- Implemented an MCP-native browser extension with native messaging — an uncommon combination in current browser tooling.
+- Shipped multiple live campus-scale platforms serving IIT Gandhinagar students.
+- Published auditing experiments on differential-privacy guarantees using DP-SGD and membership-inference benchmarks.
+
+## Availability
+
+Open to collaborations on agentic AI systems and local LLM infrastructure, open-source contributions to the MCP and vLLM ecosystems, and research roles in privacy-preserving machine learning.
