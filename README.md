@@ -1,296 +1,89 @@
-<!-- Banner Animation -->
+<!-- Professional Profile README for Govindu1729 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Govindu%20Srimaan!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=transparent" alt="Header Banner" />
-</div>
-
-<!-- Typing Effect -->
-<h3 align="center" style="margin-top: 24px;">
-  <a href="https://github.com/Govindu1729">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=50&lines=Developer+%F0%9F%92%BB;IIT+Gandhinagar+%F0%9F%8E%93;Building+Real_World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</h3>
-
-<br/>
-
-<!-- Profile View Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Govindu1729&label=Profile%20views&color=58A6FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Govindu1729?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
-<br/>
-
-<!-- About Section -->
-## 🧑‍💻 About Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpsOTFyenAxYzRxbnRzamsybndscHI3YjYzazJkMmUzbWQ1cjd4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paoX8smVvbggCXLu80/giphy.gif" width="100%" alt="Coding GIF" />
-      </td>
-      <td align="left">
-        <div style="font-size: 20px; line-height: 2;">
-          🎓 Student at <strong>IIT Gandhinagar</strong><br>
-          📍 Based in <strong>India</strong><br>
-          💼 Passionate <strong>Developer</strong><br>
-          🚀 Building innovative solutions<br>
-          📚 Learning & Growing every day<br>
-          💡 Open to collaborations
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<br/>
-
-
-<!-- Tech Stack Section -->
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <h3>Languages</h3>
+  <h1>Govindu Srimaan</h1>
+  <p><strong>Developer • IIT Gandhinagar</strong> · Building real-world systems with TypeScript, Rust, and AI infrastructure</p>
+  
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-    <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white&style=for-the-badge" alt="Rust" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-  </p>
-
-  <h3>AI Infrastructure</h3>
-  <p>
-    <img src="https://img.shields.io/badge/vLLM-0.27-FF6F00?logo=vllm&logoColor=white&style=for-the-badge" alt="vLLM" />
-    <img src="https://img.shields.io/badge/PyTorch-2.13-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/CUDA-12.9-76B900?logo=nvidia&logoColor=white&style=for-the-badge" alt="CUDA" />
-    <img src="https://img.shields.io/badge/Qwen3.8--27B--FP8-5A45FF?style=for-the-badge" alt="Qwen" />
-    <img src="https://img.shields.io/badge/Tensor_Parallel-TP%3D2-00B4D8?style=for-the-badge" alt="TP=2" />
-    <img src="https://img.shields.io/badge/L40S-2%C3%97-76B900?style=for-the-badge" alt="L40S GPU" />
-  </p>
-
-  <h3>Agentic Stack</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Model_Context_Protocol-00A8E1?logo=openai&logoColor=white&style=for-the-badge" alt="MCP" />
-    <img src="https://img.shields.io/badge/SSE-Streaming-4B0082?style=for-the-badge" alt="SSE" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
-    <img src="https://img.shields.io/badge/Vite_8-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" />
-  </p>
-
-  <h3>Frameworks & Libraries</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Firefox_WebExtensions-red?logo=firefox-browser&logoColor=white&style=for-the-badge" alt="WebExtensions" />
-  </p>
-
-  <h3>AI & ML</h3>
-  <p>
-    <img src="https://img.shields.io/badge/NLP-spaCy?logo=python&logoColor=white&style=for-the-badge" alt="NLP" />
-    <img src="https://img.shields.io/badge/RAG-Agentic?color=green&style=for-the-badge" alt="RAG" />
-    <img src="https://img.shields.io/badge/BERT-Transformers?color=orange&style=for-the-badge" alt="BERT" />
-    <img src="https://img.shields.io/badge/Differential_Privacy-DP--SGD-blueviolet?style=for-the-badge" alt="DP" />
-    <img src="https://img.shields.io/badge/Privacy_Audit-MIA-red?style=for-the-badge" alt="MIA" />
-    <img src="https://img.shields.io/badge/LLM_Serving-vLLM-FF6F00?style=for-the-badge" alt="LLM Serving" />
-    <img src="https://img.shields.io/badge/Jupyter_Notebook-F37726?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
-  </p>
-
-  <h3>Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
-    <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSCode" />
-    <img src="https://img.shields.io/badge/Cargo-Rust?logo=rust&logoColor=white&style=for-the-badge" alt="Cargo" />
-    <img src="https://img.shields.io/badge/WebDriver-BiDi?color=blue&style=for-the-badge" alt="WebDriver" />
+    <a href="https://github.com/Govindu1729"><img src="https://img.shields.io/github/followers/Govindu1729?label=Followers&style=flat&color=58A6FF" alt="Followers" /></a>
+    <a href="mailto:govindusrimaan123@gmail.com"><img src="https://img.shields.io/badge/Email-govindusrimaan123%40gmail.com-D14836?style=flat&logo=gmail" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/srimaangovindu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   </p>
 </div>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Statistics
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Govindu1729&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindu1729&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+## 🎯 Focus Areas
 
-  <br/>
+| Domain | Technologies |
+|--------|--------------|
+| **AI Infrastructure** | vLLM, PyTorch, CUDA, Tensor Parallelism, LLM Serving (Qwen 27B-FP8 on dual L40S) |
+| **Agentic Systems** | MCP, FastAPI, Native Messaging, WebDriver BiDi, Local ML Backends |
+| **Full-Stack Development** | React 19, Next.js 14, TypeScript, Vite, SQLite, Prisma, Tailwind |
+| **Systems & Privacy** | Rust, Differential Privacy (DP-SGD), Membership Inference Audits |
+| **Campus Tooling** | Next.js platforms for IITGN (academic tracking, navigation, infra management) |
 
-  <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Govindu1729&theme=tokyonight&hide_border=true" alt="GitHub Commit Streak" />
-  <br/><br/>
+---
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govindu1729&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</div>
+## 🛠️ Tech Stack
 
-<br/>
+**Languages:** TypeScript · JavaScript · Python · Rust · CSS/HTML  
+**AI/ML:** vLLM · PyTorch · CUDA · Transformers · spaCy · Jupyter  
+**Frameworks:** React 19 · Next.js 14 · FastAPI · Vite 8 · Prisma  
+**Tools:** Git · GitHub · VS Code · Cargo · WebDriver BiDi · SQLite  
 
-<!-- Featured Projects Section -->
+---
+
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="100%" colspan="2">
-      <div align="center">
-        <h3>🏢 IITGN Digital Infra Management </h3>
-        <p><em>Unified Infrastructure Management Platform for IIT Gandhinagar</em></p>
-        <img src="https://img.shields.io/badge/Next.js_14-000000?logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <br/><br/>
-        <p>A modular platform for managing campus infrastructure operations including event scheduling, room allocation, and maintenance tracking. Features enterprise-grade RBAC, real-time room conflict detection, recurring events with iCal RRULE, comprehensive audit logging, and a premium desktop-first UI with command palette navigation. Built with "Mind Your Own Business" philosophy where users only see events from authorized modules.</p>
-        <br/>
-        <a href="https://github.com/Janil-ship-it/campus-infra-management">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-        <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" alt="Status" />
-        <img src="https://img.shields.io/badge/Team-3_Developers-green?style=for-the-badge" alt="Team" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>🌐 Zen Agentic AI Extension</h3>
-        <p><em>AI-Powered Browser Extension with MCP & Native Messaging</em></p>
-        <img src="https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=white" alt="Rust" />
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white" alt="Python" />
-        <br/><br/>
-        <p>Agentic AI WebExtension for Zen Browser integrating Model Context Protocol (MCP), Native Messaging, ScreenCaptureKit, WebDriver BiDi, and local ML backend for NLP & Agentic RAG.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/Zen-Agentic-AI-Extension">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🤖 Private LLM Infrastructure</h3>
-        <p><em>Self-hosted AI Assistant on Air-Gapped Server</em></p>
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/vLLM-FF6F00?logo=vllm&logoColor=white" alt="vLLM" />
-        <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" alt="CUDA" />
-        <br/><br/>
-        <p>A self-hosted, ChatGPT-style AI assistant powered by Qwen3.8-27B-FP8, deployed locally on a dual-NVIDIA L40S server. Features tensor parallelism, streaming inference, reasoning separation, persistent chat history, and secure tool-use architecture.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/Private-LLM-Infrastructure-on-Air-Gapped-Server">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>🏫 IITGN-Walk</h3>
-        <p><em>Campus Navigation App for IIT Gandhinagar</em></p>
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-        <br/><br/>
-        <p>Help students and visitors navigate the IITGN campus easily with interactive maps and location services.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/IITGN-Walk">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>📊 iitgn-academic-tracker</h3>
-        <p><em>Academic Tracking System for IITGN Students</em></p>
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-        <br/><br/>
-        <p>Track courses, CPI, and degree requirements efficiently. A comprehensive tool for academic planning.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/iitgn-academic-tracker">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-  </tr>
- <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>📈 IndicBench</h3>
-        <p><em>Benchmarking Tool for Indian Context</em></p>
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-        <br/><br/>
-        <p>A benchmarking framework designed for evaluating models in the Indian context.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/indicbench">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>🤖 SmartSpend</h3>
-        <p><em>Intelligent Expense Tracking Application</em></p>
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
-        <br/><br/>
-        <p>A smart solution for tracking and managing personal expenses with insightful analytics.</p>
-        <br/>
-        <a href="https://github.com/Govindu1729/smartspend">
-          <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge" alt="View Project" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-<br/>
+### Core Projects (Owned & Maintained)
 
-<!-- Achievements & Trophies -->
-## 🏆 Achievements & Badges
+| Project | Description | Stack | Stars | Status | Links |
+|---------|-------------|-------|-------|--------|-------|
+| **[Private-LLM-Infrastructure-on-Air-Gapped-Server](https://github.com/Govindu1729/Private-LLM-Infrastructure-on-Air-Gapped-Server)** | Self-hosted ChatGPT-style assistant: Qwen 3.8-27B-FP8, tensor parallelism (TP=2), streaming inference, reasoning separation, persistent history, secure tool-use on dual L40S | JavaScript, vLLM, CUDA | ⭐ 1 | Active | [Repo](https://github.com/Govindu1729/Private-LLM-Infrastructure-on-Air-Gapped-Server) |
+| **[Zen-Agentic-AI-Extension](https://github.com/Govindu1729/Zen-Agentic-AI-Extension)** | Agentic browser extension for Zen: MCP, Native Messaging, ScreenCaptureKit, WebDriver BiDi, local NLP/RAG backend | Rust, TypeScript, Python | ⭐ 0 | Active | [Repo](https://github.com/Govindu1729/Zen-Agentic-AI-Extension) |
+| **[campus-infra-management](https://github.com/Govindu1729/campus-infra-management)** | Unified infra platform for IITGN: event scheduling, room allocation, RBAC, RRULE recurrences, audit logging, command palette UI | Next.js 14, TypeScript, Prisma, MySQL, Tailwind | ⭐ 1 | In Development | [Repo](https://github.com/Govindu1729/campus-infra-management) |
+| **[smartspend](https://github.com/Govindu1729/smartspend)** | Intelligent expense tracker with analytics | TypeScript, Next.js | ⭐ 1 | Active (1 issue) | [Live Demo](https://smartspend-sandy.vercel.app) · [Repo](https://github.com/Govindu1729/smartspend) |
+| **[iitgn-academic-tracker](https://github.com/Govindu1729/iitgn-academic-tracker)** | Course/CPI/degree tracker for IITGN students | JavaScript, Vercel | ⭐ 0 | Live | [Live Demo](https://iitgn-academic-tracker-c4vs.vercel.app) · [Repo](https://github.com/Govindu1729/iitgn-academic-tracker) |
+| **[IITGN-Walk](https://github.com/Govindu1729/IITGN-Walk)** | Campus navigation with interactive maps | TypeScript | ⭐ 0 | Active | [Repo](https://github.com/Govindu1729/IITGN-Walk) |
+| **[indicbench](https://github.com/Govindu1729/indicbench)** | Benchmarking framework for Indian-context model evaluation | TypeScript | ⭐ 0 | Active | [Repo](https://github.com/Govindu1729/indicbench) |
+
+### Research & Coursework
+
+| Project | Description | Stack | Stars | Status |
+|---------|-------------|-------|-------|--------|
+| **[privacy-audit-dro-dpsgd](https://github.com/Govindu1729/privacy-audit-dro-dpsgd)** | Differential privacy auditing (DP-SGD, membership inference) | Jupyter Notebook | ⭐ 1 | Active |
+| **[IITGN-Website-Redesign](https://github.com/Govindu1729/IITGN-Website-Redesign)** | CSS-only design exploration | CSS | ⭐ 0 | Archive candidate |
+| **[Software-Tools-Techniques-for-AI---mini-project](https://github.com/Govindu1729/Software-Tools-Techniques-for-AI---mini-project)** | Course mini-project | Jupyter Notebook | ⭐ 0 | Archived (Apr 2026) |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Govindu1729&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Govindu1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindu1729&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
-
-<br/>
-
-<!-- Connect Section -->
-## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/Govindu1729" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="govindusrimaan123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-    <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/srimaangovindu/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BROmscV9CSCWOwr%2FuYRK2wg%3D%3D)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-
+  <img src="https://streak-stats.demolab.com/?user=Govindu1729&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govindu1729&theme=tokyonight&hide_border=true&area=true" width="48%" alt="Activity" />
 </div>
 
-<br/>
+---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=footprint&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
+## 🏆 Highlights
 
-  ### ⭐ Thanks for visiting my profile!
+- **Dual L40S deployment** — Running 27B parameter models with tensor parallelism in production
+- **MCP-native agentic extension** — One of few browser extensions implementing Model Context Protocol with native messaging
+- **Campus-scale platforms** — Multiple live tools serving IIT Gandhinagar students
+- **Privacy research** — Differential privacy auditing with DP-SGD and MIA benchmarks
 
-  <p>Made with ❤️ by Govindu Srimaan</p>
+---
 
-  <img src="https://profile-counter.glitch.me/Govindu1729/count.svg?" alt="Visitor Count" />
-</div>
+## 🤝 Open to
 
+- Collaborations on **agentic AI systems** and **local LLM infrastructure**
+- **Open source contributions** to MCP, vLLM, or browser extension ecosystems
+- **Research roles** in privacy-preserving ML or LLM systems
 
+> **Note:** This profile is auto-synced with actual repo data. Last updated: 2026-10-07
