@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=180&section=header&text=Govindu%20Srimaan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=indie%20dev%20%C2%B7%20agents%20%C2%B7%20weird%20web&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/Govindu1729">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&random=true&width=720&lines=building+self-hosted+LLMs+on+dual+L40S+GPUs;shipping+agentic+systems+that+actually+run;forking%2C+patching%2C+upstreaming;making+campus+tech+less+painful;one+commit+at+a+time" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&random=true&width=720&lines=shipping+agentic+systems+that+actually+run;forking%2C+patching%2C+upstreaming;making+campus+tech+less+painful" alt="typing" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/KQckljOQCWobXesIag/giphy.gif" alt="minion" width="160" />
 </p>
 
-< sub> < i> This space is a personal zine - not a corporate portfolio.</i></sub>
+ This space is a personal zine - not a corporate portfolio.</i></sub>
 
 </div>
 
