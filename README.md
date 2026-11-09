@@ -13,7 +13,6 @@ building self-hosted LLMs, agentic systems, and weird web things.
 ## 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govindu1729&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Govindu1729&theme=radical" width="48%" />
 </p>
 
