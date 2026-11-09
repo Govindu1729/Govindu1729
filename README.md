@@ -29,24 +29,15 @@ I like systems that stay up, agents that don't hallucinate their way into produc
 > **Philosophy:** sometimes it works. when it doesn't, I read the source. this profile is a work in progress — much like every other indie project.
 
 ---
-
 ## 📊 stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Govindu1729&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=8B5CF6&icon_color=A78BFA&text_color=EDE9FE&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindu1729&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=EDE9FE&bg_color=0D1117" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Govindu1729&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=8B5CF6&icon_color=A78BFA&text_color=EDE9FE&bg_color=0D1117" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Govindu1729&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=EDE9FE&bg_color=0D1117" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Govindu1729&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=EDE9FE" width="52%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Govindu1729&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govindu1729&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=EDE9FE&area=true" width="95%" />
 </p>
 
 ---
