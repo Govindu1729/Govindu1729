@@ -1,10 +1,11 @@
 # Govindu Srimaan
 
-🌿 indie dev · IITGN  
+# 🌿 indie dev · IITGN
+
 building self-hosted LLMs, agentic systems, and weird web things.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/minion/giphy.gif" alt="minion" width="200" />
+  <img src="https://media.giphy.com/media/KQckljOQCWobXesIag/giphy.gif" alt="minion" width="200" />
 </p>
 
 ---
