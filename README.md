@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KQckljOQCWobXesIag/giphy.gif" alt="minion" width="160" />
+  <img src="https://media.giphy.com/media/KQckljOQCWobXesIag/giphy.gif" alt="minion" width="200" />
 </p>
 
  This space is a personal zine - not a corporate portfolio.</i></sub>
