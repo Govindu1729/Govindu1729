@@ -12,8 +12,6 @@
   <img src="https://media.giphy.com/media/KQckljOQCWobXesIag/giphy.gif" alt="minion" width="200" />
 </p>
 
-<i>This space is a personal zine — not a corporate portfolio.</i>
-
 </div>
 
 ---
